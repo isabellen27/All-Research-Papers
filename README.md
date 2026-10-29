@@ -13,6 +13,8 @@ Below is a list of the research papers currently available in this repository. C
 | **2026** | **ICMLA** | [`ICMLA_Isabelle_Niu_541.pdf`](./ICMLA_Isabelle_Niu_541.pdf) |
 | **2025** | **ISEC** | [`ISEC Paper.pdf`](./ISEC%20Paper.pdf) |
 | **2026** | **SSP Astro UWRF (Team 7)** | [`Team_7_SSP_Astro_UWRF_Paper.pdf`](./Team_7_SSP_Astro_UWRF_Paper.pdf) |
+| **2026** | **American Astronomical Society - Solar Dynamics Division Conference** | https://scixplorer.org/abs/2026SPD....5720202N/abstract|
+
 
 ## 👤 Author
 
