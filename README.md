@@ -6,7 +6,7 @@ Welcome to my research repository! This repository serves as a centralized archi
 
 Below is a list of the research papers currently available in this repository. Click on any file name to view the corresponding PDF.
 
-| Year | Event / Topic | File |
+| Year | Event  | File |
 |------|---------------|------|
 | **2026** | **American Astronomical Society - Solar Dynamics Division 57th Conference** |https://scixplorer.org/abs/2026SPD....5720202N/abstract|
 | **2026** | **25th International Conference on Machine Learning and Applications** | [`2026_ICMLA_Isabelle_Niu_541.pdf`](./2026_ICMLA_Isabelle_Niu_541.pdf) |
