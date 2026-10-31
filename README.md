@@ -12,8 +12,8 @@ Below is a list of the research papers currently available in this repository. C
 | **2026** | **25th International Conference on Machine Learning and Applications** | [`2026_ICMLA_Isabelle_Niu_541.pdf`](./2026_ICMLA_Isabelle_Niu_541.pdf) |
 | **2026** | **16th IEEE Integrated STEM Education Conference** | [`2026 ISEC Paper.pdf`](./2026%20ISEC%20Paper.pdf) |
 | **2026** | **SSP Astro UWRF (Team 7)** | [`2026 SSP_Astro_UWRF_Paper.pdf`](./2026%20SSP_Astro_UWRF_Paper.pdf) |
-| **2025** | **CSR-X** | [`2025 csr-x PAPER.pdf`](./2025%20csr-x%20PAPER.pdf) |
-| **2024** | **CSR-X** | [`2024 csr-x PAPER.pdf`](./2024%20csr-x%20PAPER.pdf) |
+| **2025** | **CSR-X (Data Science / ML)** | [`2025 csr-x PAPER.pdf`](./2025%20csr-x%20PAPER.pdf) |
+| **2024** | **CSR-X (Data Science / ML)** | [`2024 csr-x PAPER.pdf`](./2024%20csr-x%20PAPER.pdf) |
 
 
 
